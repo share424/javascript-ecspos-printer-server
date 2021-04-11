@@ -1,5 +1,5 @@
 # ECS/POS Printer Server
-This services will handle your printing services with only http request. This project use (node-escpos)[https://github.com/song940/node-escpos] as the printer module, so if you have any problem check that project.
+This services will handle your printing services with only http request. This project use [node-escpos](https://github.com/song940/node-escpos) as the printer module, so if you have any problem check that project.
 
 # How to use?
 1. Clone this repo
